@@ -7,4 +7,4 @@ jobs:
       - name: Print greeting
         run: echo "Hello world from GitHub Actions"
       - name: Print goodby
-        run: echo "Goodby :)"
+        run: echo "Goodbye :D"
